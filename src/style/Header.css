@@ -1,0 +1,40 @@
+.header{
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    background: #122740;
+}
+.header .ui.menu .item{
+    padding: 20px
+  }
+.header .ui.menu{
+    background: #122740;
+}
+.ui.menu .item{
+    color:#fff
+}
+.ui.menu a.item:hover{
+    color:#fff;
+    background: #1673ba;
+    transition: background 0.5s;
+
+}
+.ui.menu a.item:active{
+    background: #1673ba;
+    color:#fff;
+}
+.ui.menu .active.item{
+    background: #1673ba;
+    color:#fff;
+}
+.ui.menu .active.item:hover{
+    color:#fff;
+    background: #1673ba;
+    transition: background 0.5s;
+}
+.imageItem{
+    padding: 0px 16px !important;
+}
+.ui.mini.image{
+    width: 50px;
+}

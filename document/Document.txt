@@ -1,0 +1,7 @@
+To run this project, these are the following steps:-
+
+1) npm install 
+2) npm start
+3) For signIn 
+    username : admin
+    password : test

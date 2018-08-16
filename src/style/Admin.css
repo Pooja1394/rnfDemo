@@ -1,0 +1,7 @@
+.admin{
+    width: 70%;
+    overflow: auto;
+}
+.notData{
+    text-align: center !important;
+}

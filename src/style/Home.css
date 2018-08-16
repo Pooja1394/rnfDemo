@@ -1,0 +1,13 @@
+.wrapper{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    /* height: calc(100vh - 90px); */
+    position: relative;
+    /* top: 90px; */
+}
+.container{
+    width: 100%;
+    max-width: 1800px;
+    margin: auto;
+}
